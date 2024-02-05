@@ -612,7 +612,7 @@ justify-content: space-around;
 
 .contacts_body {
   margin-top: 65px;
-  margin-left: 100px;
+  margin-left:0px;
 }
 .contacts_list {
   display: flex;
